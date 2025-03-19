@@ -1,0 +1,229 @@
+[
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Villanova",
+      "team2": "Mount St. Mary's",
+      "winner": "Villanova"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Wisconsin",
+      "team2": "Virginia Tech",
+      "winner": "Wisconsin"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Virginia",
+      "team2": "UNC Wilmington",
+      "winner": "Virginia"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Florida",
+      "team2": "East Tennessee State",
+      "winner": "Florida"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Baylor",
+      "team2": "New Mexico State",
+      "winner": "Baylor"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "South Carolina",
+      "team2": "Marquette",
+      "winner": "South Carolina"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Duke",
+      "team2": "Troy",
+      "winner": "Duke"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Gonzaga",
+      "team2": "South Dakota State",
+      "winner": "Gonzaga"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Northwestern",
+      "team2": "Vanderbilt",
+      "winner": "Northwestern"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Notre Dame",
+      "team2": "Princeton",
+      "winner": "Notre Dame"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "West Virginia",
+      "team2": "Bucknell",
+      "winner": "West Virginia"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Xavier",
+      "team2": "Maryland",
+      "winner": "Xavier"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Florida State",
+      "team2": "Florida Gulf Coast",
+      "winner": "Florida State"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Saint Mary's",
+      "team2": "VCU",
+      "winner": "Saint Mary's"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "Arizona",
+      "team2": "North Dakota",
+      "winner": "Arizona"
+    },
+    {
+      "year": 2017,
+      "round": 1,
+      "team1": "North Carolina",
+      "team2": "Texas Southern",
+      "winner": "North Carolina"
+    },
+    {
+        "year": 2017,
+        "round": 2,
+        "team1": "Villanova",
+        "team2": "Wisconsin",
+        "winner": "Wisconsin"
+    },
+    {
+        "year": 2017,
+        "round": 2,
+        "team1": "Virginia",
+        "team2": "Florida",
+        "winner": "Florida"
+    },
+    {
+        "year": 2017,
+        "round": 2,
+        "team1": "Baylor",
+        "team2": "South Carolina",
+        "winner": "South Carolina"
+    },
+    {
+        "year": 2017,
+        "round": 2,
+        "team1": "Duke",
+        "team2": "South Carolina",
+        "winner": "South Carolina"
+    },
+    {
+        "year": 2017,
+        "round": 2,
+        "team1": "Gonzaga",
+        "team2": "Northwestern",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2017,
+        "round": 2,
+        "team1": "Notre Dame",
+        "team2": "West Virginia",
+        "winner": "West Virginia"
+    },
+    {
+        "year": 2017,
+        "round": 2,
+        "team1": "Xavier",
+        "team2": "Florida State",
+        "winner": "Xavier"
+    },
+    {
+        "year": 2017,
+        "round": 2,
+        "team1": "Saint Mary's",
+        "team2": "Arizona",
+        "winner": "Arizona"
+    },
+    {
+        "year": 2017,
+        "round": 3,
+        "team1": "Wisconsin",
+        "team2": "Florida",
+        "winner": "Florida"
+    },
+    {
+        "year": 2017,
+        "round": 3,
+        "team1": "South Carolina",
+        "team2": "Baylor",
+        "winner": "South Carolina"
+    },
+    {
+        "year": 2017,
+        "round": 3,
+        "team1": "Gonzaga",
+        "team2": "West Virginia",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2017,
+        "round": 3,
+        "team1": "Xavier",
+        "team2": "Arizona",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2017,
+        "round": 4,
+        "team1": "Florida",
+        "team2": "South Carolina",
+        "winner": "South Carolina"
+    },
+    {
+        "year": 2017,
+        "round": 4,
+        "team1": "Gonzaga",
+        "team2": "Xavier",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2017,
+        "round": 5,
+        "team1": "South Carolina",
+        "team2": "Gonzaga",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2017,
+        "round": 6,
+        "team1": "Gonzaga",
+        "team2": "North Carolina",
+        "winner": "North Carolina"
+    }
+]
+      
+  
+  

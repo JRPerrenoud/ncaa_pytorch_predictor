@@ -1,0 +1,227 @@
+[
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Villanova",
+      "team2": "Radford",
+      "winner": "Villanova"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Virginia Tech",
+      "team2": "Alabama",
+      "winner": "Alabama"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "West Virginia",
+      "team2": "Murray State",
+      "winner": "West Virginia"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Wichita State",
+      "team2": "Marshall",
+      "winner": "Marshall"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Florida",
+      "team2": "St. Bonaventure",
+      "winner": "Florida"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Texas Tech",
+      "team2": "Stephen F. Austin",
+      "winner": "Texas Tech"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Arkansas",
+      "team2": "Butler",
+      "winner": "Butler"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Purdue",
+      "team2": "Cal State Fullerton",
+      "winner": "Purdue"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Kansas",
+      "team2": "Pennsylvania",
+      "winner": "Kansas"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Seton Hall",
+      "team2": "NC State",
+      "winner": "Seton Hall"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Clemson",
+      "team2": "New Mexico State",
+      "winner": "Clemson"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Auburn",
+      "team2": "College of Charleston",
+      "winner": "Auburn"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "TCU",
+      "team2": "Syracuse",
+      "winner": "Syracuse"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Michigan State",
+      "team2": "Bucknell",
+      "winner": "Michigan State"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Rhode Island",
+      "team2": "Oklahoma",
+      "winner": "Rhode Island"
+    },
+    {
+      "year": 2018,
+      "round": 1,
+      "team1": "Duke",
+      "team2": "Iona",
+      "winner": "Duke"
+    },
+    {
+        "year": 2018,
+        "round": 2,
+        "team1": "Villanova",
+        "team2": "Alabama",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2018,
+        "round": 2,
+        "team1": "West Virginia",
+        "team2": "Marshall",
+        "winner": "West Virginia"
+    },
+    {
+        "year": 2018,
+        "round": 2,
+        "team1": "Florida",
+        "team2": "Texas Tech",
+        "winner": "Texas Tech"
+    },
+    {
+        "year": 2018,
+        "round": 2,
+        "team1": "Butler",
+        "team2": "Purdue",
+        "winner": "Purdue"
+    },
+    {
+        "year": 2018,
+        "round": 2,
+        "team1": "Kansas",
+        "team2": "Seton Hall",
+        "winner": "Kansas"
+    },
+    {
+        "year": 2018,
+        "round": 2,
+        "team1": "Clemson",
+        "team2": "Auburn",
+        "winner": "Clemson"
+    },
+    {
+        "year": 2018,
+        "round": 2,
+        "team1": "Syracuse",
+        "team2": "Michigan State",
+        "winner": "Syracuse"
+    },
+    {
+        "year": 2018,
+        "round": 2,
+        "team1": "Rhode Island",
+        "team2": "Duke",
+        "winner": "Duke"
+    },
+    {
+        "year": 2018,
+        "round": 3,
+        "team1": "Villanova",
+        "team2": "West Virginia",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2018,
+        "round": 3,
+        "team1": "Texas Tech",
+        "team2": "Purdue",
+        "winner": "Texas Tech"
+    },
+    {
+        "year": 2018,
+        "round": 3,
+        "team1": "Kansas",
+        "team2": "Clemson",
+        "winner": "Kansas"
+    },
+    {
+        "year": 2018,
+        "round": 3,
+        "team1": "Syracuse",
+        "team2": "Duke",
+        "winner": "Duke"
+    },
+    {
+        "year": 2018,
+        "round": 4,
+        "team1": "Villanova",
+        "team2": "Texas Tech",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2018,
+        "round": 4,
+        "team1": "Kansas",
+        "team2": "Duke",
+        "winner": "Kansas"
+    },
+    {
+        "year": 2018,
+        "round": 5,
+        "team1": "Villanova",
+        "team2": "Kansas",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2018,
+        "round": 6,
+        "team1": "Villanova",
+        "team2": "Michigan",
+        "winner": "Villanova"
+    }
+]
+       

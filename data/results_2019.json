@@ -1,0 +1,438 @@
+[
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Duke",
+      "team2": "North Dakota State",
+      "winner": "Duke"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Michigan State",
+      "team2": "Bradley",
+      "winner": "Michigan State"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "LSU",
+      "team2": "Yale",
+      "winner": "LSU"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Virginia Tech",
+      "team2": "Saint Louis",
+      "winner": "Virginia Tech"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Liberty",
+      "team2": "Mississippi State",
+      "winner": "Liberty"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Maryland",
+      "team2": "Belmont",
+      "winner": "Maryland"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Minnesota",
+      "team2": "Louisville",
+      "winner": "Minnesota"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "UCF",
+      "team2": "VCU",
+      "winner": "UCF"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Gonzaga",
+      "team2": "Fairleigh Dickinson",
+      "winner": "Gonzaga"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Michigan",
+      "team2": "Montana",
+      "winner": "Michigan"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Texas Tech",
+      "team2": "Northern Kentucky",
+      "winner": "Texas Tech"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Florida State",
+      "team2": "Vermont",
+      "winner": "Florida State"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Murray State",
+      "team2": "Marquette",
+      "winner": "Murray State"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Buffalo",
+      "team2": "Arizona State",
+      "winner": "Buffalo"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Florida",
+      "team2": "Nevada",
+      "winner": "Florida"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Baylor",
+      "team2": "Syracuse",
+      "winner": "Baylor"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Virginia",
+      "team2": "Gardner-Webb",
+      "winner": "Virginia"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Tennessee",
+      "team2": "Colgate",
+      "winner": "Tennessee"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Purdue",
+      "team2": "Old Dominion",
+      "winner": "Purdue"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "UC Irvine",
+      "team2": "Kansas State",
+      "winner": "UC Irvine"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Oregon",
+      "team2": "Wisconsin",
+      "winner": "Oregon"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Villanova",
+      "team2": "Saint Mary's",
+      "winner": "Villanova"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Iowa",
+      "team2": "Cincinnati",
+      "winner": "Iowa"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Oklahoma",
+      "team2": "Ole Miss",
+      "winner": "Oklahoma"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "North Carolina",
+      "team2": "Iona",
+      "winner": "North Carolina"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Washington",
+      "team2": "Utah State",
+      "winner": "Washington"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Auburn",
+      "team2": "New Mexico State",
+      "winner": "Auburn"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Kansas",
+      "team2": "Northeastern",
+      "winner": "Kansas"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Ohio State",
+      "team2": "Iowa State",
+      "winner": "Ohio State"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Wofford",
+      "team2": "Seton Hall",
+      "winner": "Wofford"
+    },
+    {
+      "year": 2019,
+      "round": 1,
+      "team1": "Kentucky",
+      "team2": "Abilene Christian",
+      "winner": "Kentucky"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Duke",
+        "team2": "UCF",
+        "winner": "Duke"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Virginia Tech",
+        "team2": "Liberty",
+        "winner": "Virginia Tech"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "LSU",
+        "team2": "Maryland",
+        "winner": "LSU"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Michigan State",
+        "team2": "Minnesota",
+        "winner": "Michigan State"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Gonzaga",
+        "team2": "Baylor",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Florida State",
+        "team2": "Murray State",
+        "winner": "Florida State"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Texas Tech",
+        "team2": "Buffalo",
+        "winner": "Texas Tech"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Michigan",
+        "team2": "Florida",
+        "winner": "Michigan"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Virginia",
+        "team2": "Oklahoma",
+        "winner": "Virginia"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Oregon",
+        "team2": "UC Irvine",
+        "winner": "Oregon"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Purdue",
+        "team2": "Villanova",
+        "winner": "Purdue"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Tennessee",
+        "team2": "Iowa",
+        "winner": "Tennessee"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "North Carolina",
+        "team2": "Washington",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Auburn",
+        "team2": "Kansas",
+        "winner": "Auburn"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Houston",
+        "team2": "Ohio State",
+        "winner": "Houston"
+    },
+    {
+        "year": 2019,
+        "round": 2,
+        "team1": "Kentucky",
+        "team2": "Wofford",
+        "winner": "Kentucky"
+    },
+    {
+        "year": 2019,
+        "round": 3,
+        "team1": "Duke",
+        "team2": "Virginia Tech",
+        "winner": "Duke"
+    },
+    {
+        "year": 2019,
+        "round": 3,
+        "team1": "LSU",
+        "team2": "Michigan State",
+        "winner": "Michigan State"
+    },
+    {
+        "year": 2019,
+        "round": 3,
+        "team1": "Gonzaga",
+        "team2": "Florida State",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2019,
+        "round": 3,
+        "team1": "Texas Tech",
+        "team2": "Michigan",
+        "winner": "Texas Tech"
+    },
+    {
+        "year": 2019,
+        "round": 3,
+        "team1": "Virginia",
+        "team2": "Oregon",
+        "winner": "Virginia"
+    },
+    {
+        "year": 2019,
+        "round": 3,
+        "team1": "Purdue",
+        "team2": "Tennessee",
+        "winner": "Purdue"
+    },
+    {
+        "year": 2019,
+        "round": 3,
+        "team1": "North Carolina",
+        "team2": "Auburn",
+        "winner": "Auburn"
+    },
+    {
+        "year": 2019,
+        "round": 3,
+        "team1": "Houston",
+        "team2": "Kentucky",
+        "winner": "Kentucky"
+    },
+    {
+        "year": 2019,
+        "round": 4,
+        "team1": "Duke",
+        "team2": "Michigan State",
+        "winner": "Michigan State"
+    },
+    {
+        "year": 2019,
+        "round": 4,
+        "team1": "Gonzaga",
+        "team2": "Texas Tech",
+        "winner": "Texas Tech"
+    },
+    {
+        "year": 2019,
+        "round": 4,
+        "team1": "Virginia",
+        "team2": "Purdue",
+        "winner": "Virginia"
+    },
+    {
+        "year": 2019,
+        "round": 4,
+        "team1": "Auburn",
+        "team2": "Kentucky",
+        "winner": "Auburn"
+    },
+    {
+        "year": 2019,
+        "round": 5,
+        "team1": "Michigan State",
+        "team2": "Texas Tech",
+        "winner": "Texas Tech"
+    },
+    {
+        "year": 2019,
+        "round": 5,
+        "team1": "Virginia",
+        "team2": "Auburn",
+        "winner": "Virginia"
+    },
+    {
+        "year": 2019,
+        "round": 6,
+        "team1": "Virginia",
+        "team2": "Texas Tech",
+        "winner": "Virginia"
+    }
+]
+       
+  

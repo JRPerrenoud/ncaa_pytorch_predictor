@@ -1,0 +1,234 @@
+[
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Kansas",
+      "team2": "Austin Peay",
+      "winner": "Kansas"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "UConn",
+      "team2": "Colorado",
+      "winner": "UConn"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Maryland",
+      "team2": "South Dakota State",
+      "winner": "Maryland"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Hawai'i",
+      "team2": "California",
+      "winner": "Hawai'i"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Wichita State",
+      "team2": "Arizona",
+      "winner": "Wichita State"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Miami (FL)",
+      "team2": "Buffalo",
+      "winner": "Miami (FL)"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Iowa",
+      "team2": "Temple",
+      "winner": "Iowa"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Villanova",
+      "team2": "UNC Asheville",
+      "winner": "Villanova"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "North Carolina",
+      "team2": "Florida Gulf Coast",
+      "winner": "North Carolina"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Providence",
+      "team2": "USC",
+      "winner": "Providence"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Indiana",
+      "team2": "Chattanooga",
+      "winner": "Indiana"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Kentucky",
+      "team2": "Stony Brook",
+      "winner": "Kentucky"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Notre Dame",
+      "team2": "Michigan",
+      "winner": "Notre Dame"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Stephen F. Austin",
+      "team2": "West Virginia",
+      "winner": "Stephen F. Austin"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Wisconsin",
+      "team2": "Pittsburgh",
+      "winner": "Wisconsin"
+    },
+    {
+      "year": 2016,
+      "round": 1,
+      "team1": "Xavier",
+      "team2": "Weber State",
+      "winner": "Xavier"
+    },
+    {
+        "year": 2016,
+        "round": 2,
+        "team1": "Kansas",
+        "team2": "UConn",
+        "winner": "Kansas"
+    },
+    {
+        "year": 2016,
+        "round": 2,
+        "team1": "Maryland",
+        "team2": "Hawai'i",
+        "winner": "Maryland"
+    },
+    {
+        "year": 2016,
+        "round": 2,
+        "team1": "Miami (FL)",
+        "team2": "Wichita State",
+        "winner": "Miami (FL)"
+    },
+    {
+        "year": 2016,
+        "round": 2,
+        "team1": "Villanova",
+        "team2": "Iowa",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2016,
+        "round": 2,
+        "team1": "North Carolina",
+        "team2": "Providence",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2016,
+        "round": 2,
+        "team1": "Indiana",
+        "team2": "Kentucky",
+        "winner": "Indiana"
+    },
+    {
+        "year": 2016,
+        "round": 2,
+        "team1": "Notre Dame",
+        "team2": "Stephen F. Austin",
+        "winner": "Notre Dame"
+    },
+    {
+        "year": 2016,
+        "round": 2,
+        "team1": "Wisconsin",
+        "team2": "Xavier",
+        "winner": "Wisconsin"
+    },
+    {
+        "year": 2016,
+        "round": 3,
+        "team1": "Kansas",
+        "team2": "Maryland",
+        "winner": "Kansas"
+    },
+    {
+        "year": 2016,
+        "round": 3,
+        "team1": "Miami (FL)",
+        "team2": "Villanova",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2016,
+        "round": 3,
+        "team1": "North Carolina",
+        "team2": "Indiana",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2016,
+        "round": 3,
+        "team1": "Notre Dame",
+        "team2": "Wisconsin",
+        "winner": "Notre Dame"
+    },
+    {
+        "year": 2016,
+        "round": 4,
+        "team1": "Kansas",
+        "team2": "Villanova",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2016,
+        "round": 4,
+        "team1": "North Carolina",
+        "team2": "Notre Dame",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2016,
+        "round": 5,
+        "team1": "Villanova",
+        "team2": "Oklahoma",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2016,
+        "round": 5,
+        "team1": "North Carolina",
+        "team2": "Syracuse",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2016,
+        "round": 6,
+        "team1": "Villanova",
+        "team2": "North Carolina",
+        "winner": "Villanova"
+    }
+]
+    

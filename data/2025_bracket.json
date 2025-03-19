@@ -1,0 +1,259 @@
+[
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Auburn",
+      "team2": "Alabama State",
+      "winner": "",
+      "region": "South"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Louisville",
+      "team2": "Creighton",
+      "winner": "",
+      "region": "South"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Michigan",
+      "team2": "UC San Diego",
+      "winner": "",
+      "region": "South"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Texas A&M",
+      "team2": "Yale",
+      "winner": "",
+      "region": "South"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Ole Miss",
+      "team2": "North Carolina",
+      "winner": "",
+      "region": "South"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Iowa State",
+      "team2": "Lipscomb",
+      "winner": "",
+      "region": "South"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Marquette",
+      "team2": "New Mexico",
+      "winner": "",
+      "region": "South"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Michigan State",
+      "team2": "Bryant",
+      "winner": "",
+      "region": "South"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Duke",
+      "team2": "Mount St. Mary's",
+      "winner": "",
+      "region": "East"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Mississippi State",
+      "team2": "Baylor",
+      "winner": "",
+      "region": "East"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Oregon",
+      "team2": "Liberty",
+      "winner": "",
+      "region": "East"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Arizona",
+      "team2": "Akron",
+      "winner": "",
+      "region": "East"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "BYU",
+      "team2": "VCU",
+      "winner": "",
+      "region": "East"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Wisconsin",
+      "team2": "Montana",
+      "winner": "",
+      "region": "East"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Saint Mary's",
+      "team2": "Vanderbilt",
+      "winner": "",
+      "region": "East"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Alabama",
+      "team2": "Robert Morris",
+      "winner": "",
+      "region": "East"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Houston",
+      "team2": "SIU Edwardsville",
+      "winner": "",
+      "region": "Midwest"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Gonzaga",
+      "team2": "Georgia",
+      "winner": "",
+      "region": "Midwest"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Clemson",
+      "team2": "McNeese",
+      "winner": "",
+      "region": "Midwest"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Purdue",
+      "team2": "High Point",
+      "winner": "",
+      "region": "Midwest"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Illinois",
+      "team2": "Texas",
+      "winner": "",
+      "region": "Midwest"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Kentucky",
+      "team2": "Troy",
+      "winner": "",
+      "region": "Midwest"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "UCLA",
+      "team2": "Utah State",
+      "winner": "",
+      "region": "Midwest"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Tennessee",
+      "team2": "Wofford",
+      "winner": "",
+      "region": "Midwest"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Florida",
+      "team2": "Norfolk State",
+      "winner": "",
+      "region": "West"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "UConn",
+      "team2": "Oklahoma",
+      "winner": "",
+      "region": "West"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Memphis",
+      "team2": "Colorado State",
+      "winner": "",
+      "region": "West"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Maryland",
+      "team2": "Grand Canyon",
+      "winner": "",
+      "region": "West"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Mizzou",
+      "team2": "Drake",
+      "winner": "",
+      "region": "West"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Texas Tech",
+      "team2": "UNC Wilmington",
+      "winner": "",
+      "region": "West"
+    },
+    {
+      "year": 2025,
+      "round": 1,
+      "team1": "Kansas",
+      "team2": "Arkansas",
+      "winner": "",
+      "region": "West"
+    },
+    {
+        "year": 2025,
+        "round": 1,
+        "team1": "St. John's",
+        "team2": "Nebraska Omaha",
+        "winner": "",
+        "region": "West"
+      }
+  ]
+  

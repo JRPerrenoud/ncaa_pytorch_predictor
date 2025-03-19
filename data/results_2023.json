@@ -1,0 +1,342 @@
+[
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Houston",
+      "team2": "Northern Kentucky",
+      "winner": "Houston"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Auburn",
+      "team2": "Iowa",
+      "winner": "Auburn"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Miami (FL)",
+      "team2": "Drake",
+      "winner": "Miami (FL)"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Indiana",
+      "team2": "Kent State",
+      "winner": "Indiana"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Pittsburgh",
+      "team2": "Iowa State",
+      "winner": "Pittsburgh"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Xavier",
+      "team2": "Kennesaw State",
+      "winner": "Xavier"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Penn State",
+      "team2": "Texas A&M",
+      "winner": "Penn State"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Texas",
+      "team2": "Colgate",
+      "winner": "Texas"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Kansas",
+      "team2": "Howard",
+      "winner": "Kansas"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Arkansas",
+      "team2": "Illinois",
+      "winner": "Arkansas"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Saint Mary's",
+      "team2": "VCU",
+      "winner": "Saint Mary's"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "UConn",
+      "team2": "Iona",
+      "winner": "UConn"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "TCU",
+      "team2": "Arizona State",
+      "winner": "TCU"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Gonzaga",
+      "team2": "Grand Canyon",
+      "winner": "Gonzaga"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Northwestern",
+      "team2": "Boise State",
+      "winner": "Northwestern"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "UCLA",
+      "team2": "UNC Asheville",
+      "winner": "UCLA"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Fairleigh Dickinson",
+      "team2": "Purdue",
+      "winner": "Fairleigh Dickinson"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Florida Atlantic",
+      "team2": "Memphis",
+      "winner": "Florida Atlantic"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Duke",
+      "team2": "Oral Roberts",
+      "winner": "Duke"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Tennessee",
+      "team2": "Louisiana",
+      "winner": "Tennessee"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Kentucky",
+      "team2": "Providence",
+      "winner": "Kentucky"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Kansas State",
+      "team2": "Montana State",
+      "winner": "Kansas State"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Michigan State",
+      "team2": "USC",
+      "winner": "Michigan State"
+    },
+    {
+      "year": 2023,
+      "round": 1,
+      "team1": "Marquette",
+      "team2": "Vermont",
+      "winner": "Marquette"
+    },
+    
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Houston",
+        "team2": "Auburn",
+        "winner": "Houston"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Miami (FL)",
+        "team2": "Indiana",
+        "winner": "Miami (FL)"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Pittsburgh",
+        "team2": "Xavier",
+        "winner": "Xavier"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Penn State",
+        "team2": "Texas",
+        "winner": "Texas"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Kansas",
+        "team2": "Arkansas",
+        "winner": "Arkansas"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Saint Mary's",
+        "team2": "UConn",
+        "winner": "UConn"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "TCU",
+        "team2": "Gonzaga",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Northwestern",
+        "team2": "UCLA",
+        "winner": "UCLA"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Fairleigh Dickinson",
+        "team2": "Florida Atlantic",
+        "winner": "Florida Atlantic"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Duke",
+        "team2": "Tennessee",
+        "winner": "Tennessee"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Kentucky",
+        "team2": "Kansas State",
+        "winner": "Kansas State"
+    },
+    {
+        "year": 2023,
+        "round": 2,
+        "team1": "Michigan State",
+        "team2": "Marquette",
+        "winner": "Michigan State"
+    },
+    {
+        "year": 2023,
+        "round": 3,
+        "team1": "Houston",
+        "team2": "Miami (FL)",
+        "winner": "Miami (FL)"
+    },
+    {
+        "year": 2023,
+        "round": 3,
+        "team1": "Xavier",
+        "team2": "Texas",
+        "winner": "Texas"
+    },
+    {
+        "year": 2023,
+        "round": 3,
+        "team1": "Arkansas",
+        "team2": "UConn",
+        "winner": "UConn"
+    },
+    {
+        "year": 2023,
+        "round": 3,
+        "team1": "Gonzaga",
+        "team2": "UCLA",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2023,
+        "round": 3,
+        "team1": "Florida Atlantic",
+        "team2": "Tennessee",
+        "winner": "Florida Atlantic"
+    },
+    {
+        "year": 2023,
+        "round": 3,
+        "team1": "Kansas State",
+        "team2": "Michigan State",
+        "winner": "Kansas State"
+    },
+    {
+        "year": 2023,
+        "round": 4,
+        "team1": "Miami (FL)",
+        "team2": "Texas",
+        "winner": "Miami (FL)"
+    },
+    {
+        "year": 2023,
+        "round": 4,
+        "team1": "UConn",
+        "team2": "Gonzaga",
+        "winner": "UConn"
+    },
+    {
+        "year": 2023,
+        "round": 4,
+        "team1": "Florida Atlantic",
+        "team2": "Kansas State",
+        "winner": "Florida Atlantic"
+    },
+    {
+        "year": 2023,
+        "round": 5,
+        "team1": "Miami (FL)",
+        "team2": "UConn",
+        "winner": "UConn"
+    },
+    {
+        "year": 2023,
+        "round": 5,
+        "team1": "Florida Atlantic",
+        "team2": "San Diego State",
+        "winner": "San Diego State"
+    },
+    {
+        "year": 2023,
+        "round": 6,
+        "team1": "UConn",
+        "team2": "San Diego State",
+        "winner": "UConn"
+    }
+]
+
+
+  

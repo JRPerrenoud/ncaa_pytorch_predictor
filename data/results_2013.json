@@ -1,0 +1,235 @@
+[
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Louisville",
+      "team2": "North Carolina A&T",
+      "winner": "Louisville"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Colorado State",
+      "team2": "Missouri",
+      "winner": "Colorado State"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Oregon",
+      "team2": "Oklahoma State",
+      "winner": "Oregon"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Saint Louis",
+      "team2": "New Mexico State",
+      "winner": "Saint Louis"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Memphis",
+      "team2": "Saint Mary's",
+      "winner": "Memphis"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Michigan State",
+      "team2": "Valparaiso",
+      "winner": "Michigan State"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Creighton",
+      "team2": "Cincinnati",
+      "winner": "Creighton"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Duke",
+      "team2": "Albany",
+      "winner": "Duke"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Gonzaga",
+      "team2": "Southern",
+      "winner": "Gonzaga"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Wichita State",
+      "team2": "Pittsburgh",
+      "winner": "Wichita State"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Ole Miss",
+      "team2": "Wisconsin",
+      "winner": "Ole Miss"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "La Salle",
+      "team2": "Kansas State",
+      "winner": "La Salle"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Arizona",
+      "team2": "Belmont",
+      "winner": "Arizona"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Iowa State",
+      "team2": "Notre Dame",
+      "winner": "Iowa State"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Ohio State",
+      "team2": "Iona",
+      "winner": "Ohio State"
+    },
+    {
+      "year": 2013,
+      "round": 1,
+      "team1": "Indiana",
+      "team2": "James Madison",
+      "winner": "Indiana"
+    },
+    {
+        "year": 2013,
+        "round": 2,
+        "team1": "Louisville",
+        "team2": "Colorado State",
+        "winner": "Louisville"
+    },
+    {
+        "year": 2013,
+        "round": 2,
+        "team1": "Oregon",
+        "team2": "Saint Louis",
+        "winner": "Oregon"
+    },
+    {
+        "year": 2013,
+        "round": 2,
+        "team1": "Michigan State",
+        "team2": "Memphis",
+        "winner": "Michigan State"
+    },
+    {
+        "year": 2013,
+        "round": 2,
+        "team1": "Creighton",
+        "team2": "Duke",
+        "winner": "Duke"
+    },
+    {
+        "year": 2013,
+        "round": 2,
+        "team1": "Gonzaga",
+        "team2": "Wichita State",
+        "winner": "Wichita State"
+    },
+    {
+        "year": 2013,
+        "round": 2,
+        "team1": "Ole Miss",
+        "team2": "La Salle",
+        "winner": "La Salle"
+    },
+    {
+        "year": 2013,
+        "round": 2,
+        "team1": "Arizona",
+        "team2": "Harvard",
+        "winner": "Arizona"
+    },
+    {
+        "year": 2013,
+        "round": 2,
+        "team1": "Iowa State",
+        "team2": "Ohio State",
+        "winner": "Ohio State"
+    },
+    {
+        "year": 2013,
+        "round": 3,
+        "team1": "Louisville",
+        "team2": "Oregon",
+        "winner": "Louisville"
+    },
+    {
+        "year": 2013,
+        "round": 3,
+        "team1": "Michigan State",
+        "team2": "Duke",
+        "winner": "Duke"
+    },
+    {
+        "year": 2013,
+        "round": 3,
+        "team1": "Wichita State",
+        "team2": "La Salle",
+        "winner": "Wichita State"
+    },
+    {
+        "year": 2013,
+        "round": 3,
+        "team1": "Arizona",
+        "team2": "Ohio State",
+        "winner": "Ohio State"
+    },
+    {
+        "year": 2013,
+        "round": 4,
+        "team1": "Louisville",
+        "team2": "Duke",
+        "winner": "Louisville"
+    },
+    {
+        "year": 2013,
+        "round": 4,
+        "team1": "Wichita State",
+        "team2": "Ohio State",
+        "winner": "Wichita State"
+    },
+    {
+        "year": 2013,
+        "round": 5,
+        "team1": "Louisville",
+        "team2": "Wichita State",
+        "winner": "Louisville"
+    },
+    {
+        "year": 2013,
+        "round": 5,
+        "team1": "Michigan",
+        "team2": "Syracuse",
+        "winner": "Michigan"
+    },
+    {
+        "year": 2013,
+        "round": 6,
+        "team1": "Louisville",
+        "team2": "Michigan",
+        "winner": "Louisville"
+    }
+]
+    
+  

@@ -1,0 +1,341 @@
+[
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Gonzaga",
+      "team2": "Norfolk State",
+      "winner": "Gonzaga"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Oklahoma",
+      "team2": "Missouri",
+      "winner": "Oklahoma"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Creighton",
+      "team2": "UCSB",
+      "winner": "Creighton"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Ohio",
+      "team2": "Virginia",
+      "winner": "Ohio"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "USC",
+      "team2": "Drake",
+      "winner": "USC"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Kansas",
+      "team2": "Eastern Washington",
+      "winner": "Kansas"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Oregon",
+      "team2": "VCU",
+      "winner": "Oregon"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Iowa",
+      "team2": "Grand Canyon",
+      "winner": "Iowa"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Baylor",
+      "team2": "Hartford",
+      "winner": "Baylor"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Wisconsin",
+      "team2": "North Carolina",
+      "winner": "Wisconsin"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Villanova",
+      "team2": "Winthrop",
+      "winner": "Villanova"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "North Texas",
+      "team2": "Purdue",
+      "winner": "North Texas"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Texas Tech",
+      "team2": "Utah State",
+      "winner": "Texas Tech"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Arkansas",
+      "team2": "Colgate",
+      "winner": "Arkansas"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Florida",
+      "team2": "Virginia Tech",
+      "winner": "Florida"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Oral Roberts",
+      "team2": "Ohio State",
+      "winner": "Oral Roberts"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Illinois",
+      "team2": "Drexel",
+      "winner": "Illinois"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Loyola Chicago",
+      "team2": "Georgia Tech",
+      "winner": "Loyola Chicago"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Oregon State",
+      "team2": "Tennessee",
+      "winner": "Oregon State"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Oklahoma State",
+      "team2": "Liberty",
+      "winner": "Oklahoma State"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Syracuse",
+      "team2": "San Diego State",
+      "winner": "Syracuse"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "West Virginia",
+      "team2": "Morehead State",
+      "winner": "West Virginia"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Rutgers",
+      "team2": "Clemson",
+      "winner": "Rutgers"
+    },
+    {
+      "year": 2021,
+      "round": 1,
+      "team1": "Houston",
+      "team2": "Cleveland State",
+      "winner": "Houston"
+    },    
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Gonzaga",
+        "team2": "Oklahoma",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Creighton",
+        "team2": "Ohio",
+        "winner": "Creighton"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "USC",
+        "team2": "Kansas",
+        "winner": "USC"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Oregon",
+        "team2": "Iowa",
+        "winner": "Oregon"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Baylor",
+        "team2": "Wisconsin",
+        "winner": "Baylor"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Villanova",
+        "team2": "North Texas",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Arkansas",
+        "team2": "Texas Tech",
+        "winner": "Arkansas"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Oral Roberts",
+        "team2": "Florida",
+        "winner": "Oral Roberts"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Illinois",
+        "team2": "Loyola Chicago",
+        "winner": "Loyola Chicago"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Oregon State",
+        "team2": "Oklahoma State",
+        "winner": "Oregon State"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Syracuse",
+        "team2": "West Virginia",
+        "winner": "Syracuse"
+    },
+    {
+        "year": 2021,
+        "round": 2,
+        "team1": "Rutgers",
+        "team2": "Houston",
+        "winner": "Houston"
+    },
+    {
+        "year": 2021,
+        "round": 3,
+        "team1": "Gonzaga",
+        "team2": "Creighton",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2021,
+        "round": 3,
+        "team1": "USC",
+        "team2": "Oregon",
+        "winner": "USC"
+    },
+    {
+        "year": 2021,
+        "round": 3,
+        "team1": "Baylor",
+        "team2": "Villanova",
+        "winner": "Baylor"
+    },
+    {
+        "year": 2021,
+        "round": 3,
+        "team1": "Arkansas",
+        "team2": "Oral Roberts",
+        "winner": "Arkansas"
+    },
+    {
+        "year": 2021,
+        "round": 3,
+        "team1": "Loyola Chicago",
+        "team2": "Oregon State",
+        "winner": "Oregon State"
+    },
+    {
+        "year": 2021,
+        "round": 3,
+        "team1": "Syracuse",
+        "team2": "Houston",
+        "winner": "Houston"
+    },
+    {
+        "year": 2021,
+        "round": 4,
+        "team1": "Gonzaga",
+        "team2": "USC",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2021,
+        "round": 4,
+        "team1": "Baylor",
+        "team2": "Arkansas",
+        "winner": "Baylor"
+    },
+    {
+        "year": 2021,
+        "round": 4,
+        "team1": "Oregon State",
+        "team2": "Houston",
+        "winner": "Houston"
+    },
+    {
+        "year": 2021,
+        "round": 5,
+        "team1": "Gonzaga",
+        "team2": "UCLA",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2021,
+        "round": 5,
+        "team1": "Baylor",
+        "team2": "Houston",
+        "winner": "Baylor"
+    },
+    {
+        "year": 2021,
+        "round": 6,
+        "team1": "Gonzaga",
+        "team2": "Baylor",
+        "winner": "Baylor"
+    }
+]
+      
+  
+  

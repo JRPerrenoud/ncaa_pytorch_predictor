@@ -1,0 +1,437 @@
+[
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "UConn",
+    "team2": "Stetson",
+    "winner": "UConn"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Northwestern",
+    "team2": "Florida Atlantic",
+    "winner": "Northwestern"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "San Diego State",
+    "team2": "UAB",
+    "winner": "San Diego State"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Yale",
+    "team2": "Auburn",
+    "winner": "Yale"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Duquesne",
+    "team2": "BYU",
+    "winner": "Duquesne"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Illinois",
+    "team2": "Morehead State",
+    "winner": "Illinois"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Washington State",
+    "team2": "Drake",
+    "winner": "Washington State"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Iowa State",
+    "team2": "South Dakota State",
+    "winner": "Iowa State"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "North Carolina",
+    "team2": "Wagner",
+    "winner": "North Carolina"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Michigan State",
+    "team2": "Mississippi State",
+    "winner": "Michigan State"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Grand Canyon",
+    "team2": "Saint Mary's",
+    "winner": "Grand Canyon"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Alabama",
+    "team2": "Charleston",
+    "winner": "Alabama"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Clemson",
+    "team2": "New Mexico",
+    "winner": "Clemson"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Baylor",
+    "team2": "Colgate",
+    "winner": "Baylor"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Dayton",
+    "team2": "Nevada",
+    "winner": "Dayton"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Arizona",
+    "team2": "Long Beach State",
+    "winner": "Arizona"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Houston",
+    "team2": "Longwood",
+    "winner": "Houston"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Texas A&M",
+    "team2": "Nebraska",
+    "winner": "Texas A&M"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "James Madison",
+    "team2": "Wisconsin",
+    "winner": "James Madison"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Duke",
+    "team2": "Vermont",
+    "winner": "Duke"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "NC State",
+    "team2": "Texas Tech",
+    "winner": "NC State"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Oakland",
+    "team2": "Kentucky",
+    "winner": "Oakland"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Colorado",
+    "team2": "Florida",
+    "winner": "Colorado"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Marquette",
+    "team2": "Western Kentucky",
+    "winner": "Marquette"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Purdue",
+    "team2": "Grambling State",
+    "winner": "Purdue"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Utah State",
+    "team2": "TCU",
+    "winner": "Utah State"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Gonzaga",
+    "team2": "McNeese",
+    "winner": "Gonzaga"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Kansas",
+    "team2": "Samford",
+    "winner": "Kansas"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "South Carolina",
+    "team2": "Oregon",
+    "winner": "South Carolina"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Texas",
+    "team2": "Washington State",
+    "winner": "Texas"
+  },
+  {
+    "year": 2024,
+    "round": 1,
+    "team1": "Tennessee",
+    "team2": "Akron",
+    "winner": "Tennessee"
+  }, 
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "UConn",
+    "team2": "Northwestern",
+    "winner": "UConn"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "San Diego State",
+    "team2": "Yale",
+    "winner": "San Diego State"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Duquesne",
+    "team2": "Illinois",
+    "winner": "Illinois"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Washington State",
+    "team2": "Iowa State",
+    "winner": "Iowa State"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "North Carolina",
+    "team2": "Michigan State",
+    "winner": "North Carolina"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Grand Canyon",
+    "team2": "Alabama",
+    "winner": "Alabama"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Clemson",
+    "team2": "Baylor",
+    "winner": "Baylor"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Dayton",
+    "team2": "Arizona",
+    "winner": "Arizona"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Houston",
+    "team2": "Texas A&M",
+    "winner": "Houston"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "James Madison",
+    "team2": "Duke",
+    "winner": "Duke"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "NC State",
+    "team2": "Oakland",
+    "winner": "NC State"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Colorado",
+    "team2": "Marquette",
+    "winner": "Marquette"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Purdue",
+    "team2": "Utah State",
+    "winner": "Purdue"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Gonzaga",
+    "team2": "Kansas",
+    "winner": "Kansas"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "South Carolina",
+    "team2": "Texas",
+    "winner": "Texas"
+  },
+  {
+    "year": 2024,
+    "round": 2,
+    "team1": "Tennessee",
+    "team2": "Arizona",
+    "winner": "Tennessee"
+  },
+  {
+    "year": 2024,
+    "round": 3,
+    "team1": "UConn",
+    "team2": "San Diego State",
+    "winner": "UConn"
+  },
+  {
+    "year": 2024,
+    "round": 3,
+    "team1": "Illinois",
+    "team2": "Iowa State",
+    "winner": "Illinois"
+  },
+  {
+    "year": 2024,
+    "round": 3,
+    "team1": "North Carolina",
+    "team2": "Alabama",
+    "winner": "Alabama"
+  },
+  {
+    "year": 2024,
+    "round": 3,
+    "team1": "Baylor",
+    "team2": "Arizona",
+    "winner": "Arizona"
+  },
+  {
+    "year": 2024,
+    "round": 3,
+    "team1": "Houston",
+    "team2": "Duke",
+    "winner": "Duke"
+  },
+  {
+    "year": 2024,
+    "round": 3,
+    "team1": "NC State",
+    "team2": "Marquette",
+    "winner": "NC State"
+  },
+  {
+    "year": 2024,
+    "round": 3,
+    "team1": "Purdue",
+    "team2": "Kansas",
+    "winner": "Purdue"
+  },
+  {
+    "year": 2024,
+    "round": 3,
+    "team1": "Texas",
+    "team2": "Tennessee",
+    "winner": "Tennessee"
+  },
+  {
+    "year": 2024,
+    "round": 4,
+    "team1": "UConn",
+    "team2": "Illinois",
+    "winner": "UConn"
+  },
+  {
+    "year": 2024,
+    "round": 4,
+    "team1": "Alabama",
+    "team2": "Arizona",
+    "winner": "Alabama"
+  },
+  {
+    "year": 2024,
+    "round": 4,
+    "team1": "Duke",
+    "team2": "NC State",
+    "winner": "NC State"
+  },
+  {
+    "year": 2024,
+    "round": 4,
+    "team1": "Purdue",
+    "team2": "Tennessee",
+    "winner": "Purdue"
+  },
+  {
+    "year": 2024,
+    "round": 5,
+    "team1": "UConn",
+    "team2": "Alabama",
+    "winner": "UConn"
+  },
+  {
+    "year": 2024,
+    "round": 5,
+    "team1": "NC State",
+    "team2": "Purdue",
+    "winner": "Purdue"
+  },
+  {
+    "year": 2024,
+    "round": 6,
+    "team1": "UConn",
+    "team2": "Purdue",
+    "winner": "UConn"
+  }
+]
+

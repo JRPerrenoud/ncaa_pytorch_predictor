@@ -1,0 +1,236 @@
+[
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Kentucky",
+      "team2": "Hampton",
+      "winner": "Kentucky"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Cincinnati",
+      "team2": "Purdue",
+      "winner": "Cincinnati"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "West Virginia",
+      "team2": "Buffalo",
+      "winner": "West Virginia"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Maryland",
+      "team2": "Valparaiso",
+      "winner": "Maryland"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Butler",
+      "team2": "Texas",
+      "winner": "Butler"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Notre Dame",
+      "team2": "Northeastern",
+      "winner": "Notre Dame"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Wichita State",
+      "team2": "Indiana",
+      "winner": "Wichita State"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Kansas",
+      "team2": "New Mexico State",
+      "winner": "Kansas"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Wisconsin",
+      "team2": "Coastal Carolina",
+      "winner": "Wisconsin"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Oregon",
+      "team2": "Oklahoma State",
+      "winner": "Oregon"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Arkansas",
+      "team2": "Wofford",
+      "winner": "Arkansas"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "North Carolina",
+      "team2": "Harvard",
+      "winner": "North Carolina"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Xavier",
+      "team2": "Ole Miss",
+      "winner": "Xavier"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Arizona",
+      "team2": "Texas Southern",
+      "winner": "Arizona"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Ohio State",
+      "team2": "VCU",
+      "winner": "Ohio State"
+    },
+    {
+      "year": 2015,
+      "round": 1,
+      "team1": "Villanova",
+      "team2": "Lafayette",
+      "winner": "Villanova"
+    },
+    {
+        "year": 2015,
+        "round": 2,
+        "team1": "Kentucky",
+        "team2": "Cincinnati",
+        "winner": "Kentucky"
+    },
+    {
+        "year": 2015,
+        "round": 2,
+        "team1": "West Virginia",
+        "team2": "Maryland",
+        "winner": "West Virginia"
+    },
+    {
+        "year": 2015,
+        "round": 2,
+        "team1": "Butler",
+        "team2": "Notre Dame",
+        "winner": "Notre Dame"
+    },
+    {
+        "year": 2015,
+        "round": 2,
+        "team1": "Wichita State",
+        "team2": "Kansas",
+        "winner": "Wichita State"
+    },
+    {
+        "year": 2015,
+        "round": 2,
+        "team1": "Wisconsin",
+        "team2": "Oregon",
+        "winner": "Wisconsin"
+    },
+    {
+        "year": 2015,
+        "round": 2,
+        "team1": "Arkansas",
+        "team2": "North Carolina",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2015,
+        "round": 2,
+        "team1": "Xavier",
+        "team2": "Georgia State",
+        "winner": "Xavier"
+    },
+    {
+        "year": 2015,
+        "round": 2,
+        "team1": "Arizona",
+        "team2": "Ohio State",
+        "winner": "Arizona"
+    },
+    {
+        "year": 2015,
+        "round": 3,
+        "team1": "Kentucky",
+        "team2": "West Virginia",
+        "winner": "Kentucky"
+    },
+    {
+        "year": 2015,
+        "round": 3,
+        "team1": "Notre Dame",
+        "team2": "Wichita State",
+        "winner": "Notre Dame"
+    },
+    {
+        "year": 2015,
+        "round": 3,
+        "team1": "Wisconsin",
+        "team2": "North Carolina",
+        "winner": "Wisconsin"
+    },
+    {
+        "year": 2015,
+        "round": 3,
+        "team1": "Arizona",
+        "team2": "Xavier",
+        "winner": "Arizona"
+    },
+    {
+        "year": 2015,
+        "round": 4,
+        "team1": "Kentucky",
+        "team2": "Notre Dame",
+        "winner": "Kentucky"
+    },
+    {
+        "year": 2015,
+        "round": 4,
+        "team1": "Wisconsin",
+        "team2": "Arizona",
+        "winner": "Wisconsin"
+    },
+    {
+        "year": 2015,
+        "round": 5,
+        "team1": "Kentucky",
+        "team2": "Wisconsin",
+        "winner": "Wisconsin"
+    },
+    {
+        "year": 2015,
+        "round": 5,
+        "team1": "Duke",
+        "team2": "Michigan State",
+        "winner": "Duke"
+    },
+    {
+        "year": 2015,
+        "round": 6,
+        "team1": "Duke",
+        "team2": "Wisconsin",
+        "winner": "Duke"
+    }
+]
+      
+  
+  

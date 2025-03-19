@@ -1,0 +1,424 @@
+[
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Kansas",
+      "team2": "Texas Southern",
+      "winner": "Kansas"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Creighton",
+      "team2": "San Diego State",
+      "winner": "Creighton"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Richmond",
+      "team2": "Iowa",
+      "winner": "Richmond"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Providence",
+      "team2": "South Dakota State",
+      "winner": "Providence"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Iowa State",
+      "team2": "LSU",
+      "winner": "Iowa State"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Wisconsin",
+      "team2": "Colgate",
+      "winner": "Wisconsin"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Miami (FL)",
+      "team2": "USC",
+      "winner": "Miami (FL)"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Auburn",
+      "team2": "Jacksonville State",
+      "winner": "Auburn"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Gonzaga",
+      "team2": "Georgia State",
+      "winner": "Gonzaga"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Memphis",
+      "team2": "Boise State",
+      "winner": "Memphis"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "New Mexico State",
+      "team2": "UConn",
+      "winner": "New Mexico State"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Arkansas",
+      "team2": "Vermont",
+      "winner": "Arkansas"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Notre Dame",
+      "team2": "Alabama",
+      "winner": "Notre Dame"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Texas Tech",
+      "team2": "Montana State",
+      "winner": "Texas Tech"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Michigan State",
+      "team2": "Davidson",
+      "winner": "Michigan State"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Duke",
+      "team2": "Cal State Fullerton",
+      "winner": "Duke"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Baylor",
+      "team2": "Norfolk State",
+      "winner": "Baylor"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "North Carolina",
+      "team2": "Marquette",
+      "winner": "North Carolina"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Saint Mary's",
+      "team2": "Indiana",
+      "winner": "Saint Mary's"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "UCLA",
+      "team2": "Akron",
+      "winner": "UCLA"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Texas",
+      "team2": "Virginia Tech",
+      "winner": "Texas"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Purdue",
+      "team2": "Yale",
+      "winner": "Purdue"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Murray State",
+      "team2": "San Francisco",
+      "winner": "Murray State"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Saint Peter's",
+      "team2": "Kentucky",
+      "winner": "Saint Peter's"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Arizona",
+      "team2": "Wright State",
+      "winner": "Arizona"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "TCU",
+      "team2": "Seton Hall",
+      "winner": "TCU"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Houston",
+      "team2": "UAB",
+      "winner": "Houston"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Illinois",
+      "team2": "Chattanooga",
+      "winner": "Illinois"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Michigan",
+      "team2": "Colorado State",
+      "winner": "Michigan"
+    },
+    {
+      "year": 2022,
+      "round": 1,
+      "team1": "Tennessee",
+      "team2": "Longwood",
+      "winner": "Tennessee"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Kansas",
+        "team2": "Creighton",
+        "winner": "Kansas"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Richmond",
+        "team2": "Providence",
+        "winner": "Providence"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Iowa State",
+        "team2": "Wisconsin",
+        "winner": "Iowa State"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Miami (FL)",
+        "team2": "Auburn",
+        "winner": "Miami (FL)"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Gonzaga",
+        "team2": "Memphis",
+        "winner": "Gonzaga"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "New Mexico State",
+        "team2": "Arkansas",
+        "winner": "Arkansas"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Notre Dame",
+        "team2": "Texas Tech",
+        "winner": "Texas Tech"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Michigan State",
+        "team2": "Duke",
+        "winner": "Duke"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Baylor",
+        "team2": "North Carolina",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Saint Mary's",
+        "team2": "UCLA",
+        "winner": "UCLA"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Texas",
+        "team2": "Purdue",
+        "winner": "Purdue"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Murray State",
+        "team2": "Saint Peter's",
+        "winner": "Saint Peter's"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Arizona",
+        "team2": "TCU",
+        "winner": "Arizona"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Houston",
+        "team2": "Illinois",
+        "winner": "Houston"
+    },
+    {
+        "year": 2022,
+        "round": 2,
+        "team1": "Michigan",
+        "team2": "Tennessee",
+        "winner": "Michigan"
+    },
+    {
+        "year": 2022,
+        "round": 3,
+        "team1": "Kansas",
+        "team2": "Providence",
+        "winner": "Kansas"
+    },
+    {
+        "year": 2022,
+        "round": 3,
+        "team1": "Iowa State",
+        "team2": "Miami (FL)",
+        "winner": "Miami (FL)"
+    },
+    {
+        "year": 2022,
+        "round": 3,
+        "team1": "Gonzaga",
+        "team2": "Arkansas",
+        "winner": "Arkansas"
+    },
+    {
+        "year": 2022,
+        "round": 3,
+        "team1": "Texas Tech",
+        "team2": "Duke",
+        "winner": "Duke"
+    },
+    {
+        "year": 2022,
+        "round": 3,
+        "team1": "North Carolina",
+        "team2": "UCLA",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2022,
+        "round": 3,
+        "team1": "Purdue",
+        "team2": "Saint Peter's",
+        "winner": "Saint Peter's"
+    },
+    {
+        "year": 2022,
+        "round": 3,
+        "team1": "Arizona",
+        "team2": "Houston",
+        "winner": "Houston"
+    },
+    {
+        "year": 2022,
+        "round": 3,
+        "team1": "Michigan",
+        "team2": "Villanova",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2022,
+        "round": 4,
+        "team1": "Kansas",
+        "team2": "Miami (FL)",
+        "winner": "Kansas"
+    },
+    {
+        "year": 2022,
+        "round": 4,
+        "team1": "Arkansas",
+        "team2": "Duke",
+        "winner": "Duke"
+    },
+    {
+        "year": 2022,
+        "round": 4,
+        "team1": "North Carolina",
+        "team2": "Saint Peter's",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2022,
+        "round": 4,
+        "team1": "Houston",
+        "team2": "Villanova",
+        "winner": "Villanova"
+    },
+    {
+        "year": 2022,
+        "round": 5,
+        "team1": "Kansas",
+        "team2": "Villanova",
+        "winner": "Kansas"
+    },
+    {
+        "year": 2022,
+        "round": 5,
+        "team1": "Duke",
+        "team2": "North Carolina",
+        "winner": "North Carolina"
+    },
+    {
+        "year": 2022,
+        "round": 6,
+        "team1": "Kansas",
+        "team2": "North Carolina",
+        "winner": "Kansas"
+    }
+]
+    
+  
